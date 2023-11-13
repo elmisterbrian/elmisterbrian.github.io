@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+.header {
+    background-color: black;
+    color: antiquewhite;
+    height: 10vh;
+    text-align: center;
+    width: 100%;
+}
+.image-sectionc {
+    margin-top: 20px;
+}
+.tamano img {
+    height: 50vh;
+}
+footer {
+    height: 25vh;
+    background-color: gray;
+    margin-top: 2rem;
+    padding: 25px;
+}
+footer ul {
+    list-style: none;
+}

@@ -9,6 +9,7 @@
     color: antiquewhite;
     height: 10vh;
     text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 /* Aca estan los comandos que modifican la primera impresion como la foto de fondo y el h1 */
 .presentation {
@@ -25,11 +26,15 @@
 .presentation h1 {
     font-size: 4rem;
     font-family: 'Edu TAS Beginner', cursive;
+    background-color: #2102028a;
+    border-radius: 4px;
 }
 .presentation h2 {
     font-size: 2rem;
     font-family: Arial, Helvetica, sans-serif;
     margin: 1rem;
+    background-color: #2102028a;
+    border-radius: 4px;
 }
 /* A partir de aqui se modifica la seccion de las tres imagenes con las descripciones de cocineros ensaladas y la variedad que ofrece el restaurante */
 .image-section {

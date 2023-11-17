@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+.header {
+    background-color: black;
+    color: antiquewhite;
+    height: 10vh;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 100%;
+}
+.image-section img{
+width: 100%;
+height: 50%;
+}
+figure {
+    margin: 5px 0 5px 0;
+}
+footer {
+    height: 25vh;
+    background-color: gray;
+    margin-top: 2rem;
+    padding: 25px;
+}
+footer ul {
+    list-style: none;
+}

@@ -29,3 +29,11 @@ footer {
 footer ul {
     list-style: none;
 }
+@media (min-width: 1024px) {
+    .image-section {
+        display: flex;
+    }
+    figure {
+        width: 100%;
+    }
+}
